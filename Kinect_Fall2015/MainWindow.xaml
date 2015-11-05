@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Button Content="Test for Github" HorizontalAlignment="Left" Margin="187,269,0,0" VerticalAlignment="Top" Width="131" RenderTransformOrigin="0.489,0.516"/>
+
     </Grid>
 </Window>
